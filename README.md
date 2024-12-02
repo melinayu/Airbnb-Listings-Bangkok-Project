@@ -1,12 +1,12 @@
-<h1> [Your Project Title] </h1>
+<h1> "Optimizing Airbnb Listings in Bangkok:<br> A Data-Driven Approach to Boost Bookings and Revenue" </h1>
 
 ## 1. Project Overview
-This project analyzes business data to extract insights, improve decision-making, and identify key trends. The primary focus is to **[Your Problem Statements]**(mention business objectives, such as optimizing sales, reducing operational costs, customer segmentation, etc.).
+This project analyzes business data to extract insights, improve decision-making, and identify key trends. The primary focus is to understand the factors driving Airbnb success in Bangkok, including geospatial competition, seasonal demand fluctuations, and the impact of room types and minimum stay policies. By examining the concentration of listings in specific neighborhoods, this project aims to uncover the effects of listing density on competition and profitability. Additionally, it explores how dynamic pricing strategies, adjusted to seasonal demand and competitive pressures, can maximize revenue. The analysis also delves into the influence of room type and minimum stay policies on booking patterns, offering recommendations for optimizing listings. Ultimately, this project provides actionable insights to help hosts enhance their visibility, increase bookings, and remain competitive in a rapidly evolving market.
 
 Key Objectives:
-- Objective 1: (E.g., Analyze customer purchasing patterns)
-- Objective 2: (E.g., Forecast future sales using machine learning)
-- Objective 3: (E.g., Identify high-value customer segments)
+- Objective 1: Analyze Geospatial Competition and Listings Density
+- Objective 2: Optimize Pricing and Availability
+- Objective 3: Evaluate impact of Room Type and Minimum Stay Policy
 
 ## 2. Data Sources
 - [Dataset 1](link) - Description of dataset (e.g., Sales data for 2020–2023)

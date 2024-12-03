@@ -9,9 +9,8 @@ Key Objectives:
 - Objective 3: Evaluate impact of Room Type and Minimum Stay Policy
 
 ## 2. Data Sources
-- [Dataset 1](link) - Description of dataset (e.g., Sales data for 2020–2023)
-- [Dataset 2](link) – Description of dataset (e.g., Customer demographic information)
-- ...
+- [Dataset 1](https://drive.google.com/file/d/1M1mn-qE0pszzFwywQMsnIl8aerozfsUn/view?usp=sharing) - Airbnb Listings Bangkok Dataset for 2012–2022
+- [Dataset 2](https://drive.google.com/file/d/18FP6BnDprDkJENhgSy1Ti8iQgo0EAOEi/view?usp=sharing) – Bangkok District Geojson
 
 ## 3. Technologies Used
 - Programming Language: Python (e.g., Pandas, NumPy)
@@ -19,7 +18,6 @@ Key Objectives:
 - Interactive Dashboard: Tableau
 - Version Control: Git
 - Others: Jupyter Notebook
-- ...
 
 ## 4. Project Structure
 
@@ -47,11 +45,33 @@ Key Objectives:
 
 ## 5. Summary of Finding
 ### 5.1 Business Insight
-In this section, you can present the **actionable insights** derived from the analysis results.
+- **High Demand in Central Districts:**<br> Central areas like Sukhumvit, Silom, and Siam attract a large number of tourists and business travelers. These areas present an opportunity for hosts to target high-demand guests by offering premium accommodations, such as entire homes or apartments. By positioning properties in these locations, hosts can benefit from higher occupancy rates, especially during peak seasons.
+
+- **Opportunities in Non-Central Areas:**<br> Areas outside the central business district, such as Bang Kapi and Lat Phrao, may offer more affordable rental options, attracting budget-conscious travelers, students, and solo tourists. Despite slightly lower pricing, these neighborhoods can provide high occupancy rates due to the lower competition in these areas.
+
+- **Strategic Pricing During Graduation and Peak Seasons:**<br> Special events, such as graduation seasons, offer a surge in demand. Hosts can capitalize on these periods by adjusting pricing to meet the demand surge. Additionally, hosts should also focus on high-demand months like December to increase their rates and take advantage of peak season trends.
+
+- **Seasonal Pricing and Availability Trends:**<br> Hosts can optimize their pricing strategies based on seasonal fluctuations. For instance, during high-demand months (e.g., December), prices can be raised, while during off-peak months (e.g., April and June), flexible pricing or discounts can attract more guests. Additionally, adjusting availability according to demand, such as reducing availability during higher demand months, can help maximize occupancy and revenue.
+
+- **Room Type and Minimum Stay Flexibility:**<br> Certain room types, like entire homes or apartments, are in higher demand for both short and long stays. Hosts should optimize their offerings to target specific markets, such as families or longer-term guests. For properties with private or shared rooms, flexible minimum stay requirements or offering discounts for longer stays could help maintain higher occupancy rates.
+
 ### 5.2 Actionable Recommendation
-In this section, you can offer **actionable business recommendations** to address the identified problems.
+- **Premium Accommodations in High-Demand Areas:**<br> Hosts in central Bangkok districts should consider offering entire home/apartment listings with premium amenities. Focus on amenities like tourist guides, airport transfers, and proximity to shopping and dining areas to attract tourists and business travelers. In addition, consider offering flexible check-in/check-out services to enhance convenience.
+
+- **Diversify Listings in Non-Central Areas:**<br> In areas like Bang Kapi and Lat Phrao, hosts should consider listing private rooms to cater to budget-conscious travelers. Offering long-term stay discounts or providing essential amenities for students and solo travelers (e.g., study areas and workspaces) can help increase bookings in these neighborhoods.
+
+- **Capitalize on Graduation and Peak Seasons:**<br> Hosts should adjust their pricing during high-demand periods, such as graduation seasons, to maximize revenue. This could involve increasing prices during these peak times and offering promotions or discounts in the months leading up to it to attract more bookings.
+
+- **Implement Dynamic Pricing Tools:**<br> To stay competitive, hosts should consider using dynamic pricing tools to automatically adjust their pricing based on market demand, competitor pricing, and seasonality. This can help ensure that listings remain competitive and aligned with market trends, leading to improved occupancy rates and higher revenue.
+
+- **Flexibility in Minimum Stay Policies:**<br> Hosts should adapt their minimum stay policies based on the nature of their listings. For entire homes or apartments, offering family-friendly amenities and longer-term stay options could cater to longer stays. For private or shared rooms, offering flexible minimum stay requirements or discounts for longer bookings could help increase occupancy.
+
+- **Adjust Availability for Optimal Occupancy:**<br> Hosts should adjust their availability according to demand trends. For instance, during months with high demand (like July and August), hosts can reduce availability and offer premium pricing. Conversely, during months with lower demand (like October), increasing availability and offering discounted prices could help ensure consistent bookings throughout the year.
 
 ## 6. Contact
-- Name: 
-- Email:
-- Linkedin:
+- Name: Melin Ayu Safitri
+- Email: melinayusafitri@gmail.com
+- Linkedin: linkedin.com/in/melinayusafitri
+
+## 7. Dashboard :
+Tableau : https://public.tableau.com/views/DashboardCapstoneProject2/Dashboard1

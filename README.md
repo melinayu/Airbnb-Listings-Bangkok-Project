@@ -28,18 +28,16 @@ Key Objectives:
 │   ├── raw            <- Data from third party sources.
 │   └── cleaned        <- The data that has been cleaned.
 │
-├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-│                         the creator's initials, and a short `-` delimited description, e.g.
-│                         `1.0-jqp-initial-data-exploration`.
+├── notebooks          <- Jupyter notebooks.
 │
-├── reports            <- Generated analysis as PowerPoint, PDF, LaTeX, etc.
+├── reports            <- Generated analysis as PowerPoint and PDF
 |   ├── slide          <- Generated PowerPoint
 │   └── figures        <- Generated graphics and figures to be used in reporting
 │
 ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
 │                         generated with `pip freeze > requirements.txt`
 │
-└── src                <- Source code for use in this project.
+└── src                <- (-)
 
 ```
 
@@ -74,4 +72,4 @@ Key Objectives:
 - Linkedin: linkedin.com/in/melinayusafitri
 
 ## 7. Dashboard :
-Tableau : https://public.tableau.com/views/DashboardCapstoneProject2/Dashboard1
+- [Link Dashboard](https://public.tableau.com/views/DashboardCapstoneProject2/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) – Dashboard Airbnb Listings Bangkok Project
